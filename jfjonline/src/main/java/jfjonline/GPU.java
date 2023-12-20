@@ -1,3 +1,4 @@
+package jfjonline;
 /**
 	* class GPU, that extends the abstract Item class, to create a GPU object.
 	* @author Franklin Bai

@@ -1,3 +1,4 @@
+package jfjonline;
 // allows them to create an account with a username and password
 
 class CustomerAccount {

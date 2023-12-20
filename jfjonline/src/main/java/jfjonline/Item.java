@@ -1,3 +1,4 @@
+package jfjonline;
 /**
 * An abstract class, Item, that is used to create subclasses of it self, which then create objects.
 */

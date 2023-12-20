@@ -1,3 +1,4 @@
+package jfjonline;
 /**
 	* class CPU, that extends the abstract Item class, to create a CPU object.
 	* @author Franklin Bai

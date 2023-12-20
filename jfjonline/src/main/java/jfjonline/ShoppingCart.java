@@ -1,4 +1,7 @@
+package jfjonline;
 /**
+
+
 	* class ShoppingCart, a class that stores methods for the backend management of anything shopping cart related.
 	* @author Franklin Bai
 	* @version 17.0.3

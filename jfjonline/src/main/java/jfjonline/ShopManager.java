@@ -1,4 +1,6 @@
+package jfjonline;
 /**
+
 	* class ShopManager, that stores methods for the backend management of anything shop related.
 	* @author Franklin Bai
 	* @version 17.0.3

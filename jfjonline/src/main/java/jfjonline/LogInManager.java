@@ -1,4 +1,6 @@
+package jfjonline;
 /**
+
 	* class LogInManager, a class that manages most of the backend account modifying actions.
 	* @author Franklin Bai
 	* @version 17.0.3

@@ -1,3 +1,4 @@
+package jfjonline;
 /**
 	* class RAM, that extends the abstract Item class, to create a RAM object.
 	* @author Franklin Bai

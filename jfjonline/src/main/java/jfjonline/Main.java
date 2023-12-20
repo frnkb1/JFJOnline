@@ -1,3 +1,4 @@
+package jfjonline;
 /**
 	* class Main, that puts all the classes of the store together and helps run them.
 	* @author Franklin Bai
